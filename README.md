@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nora0012
+- 👋 Hi, I’m @nr00012
 - 👀 I’m interested in Telecommunication, Data Scient and AI Machine Learing.
 - 🌱 I’m currently learning Python for Data visualization and AI ML.
 - 💞️ I’m looking to collaborate on AI ML...
